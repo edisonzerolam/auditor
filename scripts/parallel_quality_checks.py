@@ -1,5 +1,11 @@
 """parallel_quality_checks.py — Q0-Q7 质量检查并行执行
 
+
+# [中文说明]
+# 本文件：parallel_quality_checks.py
+# 用途：OpenClaw 框架的核心脚本之一
+# 详细文档：请阅读对应的 SKILL.md 和 references/
+
 auditor Layer0 的 Q0-Q7 质量检查大多相互独立，可以并行执行。
 
 串行执行：~1.5s

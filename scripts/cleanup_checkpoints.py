@@ -1,4 +1,10 @@
 """
+
+# [中文说明]
+# 本文件：cleanup_checkpoints.py
+# 用途：OpenClaw 框架的核心脚本之一
+# 详细文档：请阅读对应的 SKILL.md 和 references/
+
 cleanup_checkpoints.py — Checkpoint 清理模块
 
 auditor v6.4+ 内置，作为 checkpoint 生命周期管理的一部分。
